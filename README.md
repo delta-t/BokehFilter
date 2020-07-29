@@ -1,4 +1,4 @@
-# cv-test-task
+# Computer Vision Test Task
 ## Formulation of the problem
 Implement a Bokeh filter with several types of kernel from scratch
 ## What does Bokeh mean?
